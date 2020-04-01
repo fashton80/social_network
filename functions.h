@@ -1,4 +1,4 @@
-#include <functions.c>
+#include "functions.c"
 
 void* malloc(size_t size);    //allocates memory on the heap in bytes
 void free(void* ptr);    //frees memory allocated to by ptr
