@@ -507,7 +507,7 @@ int RotationDeterminationCont(struct Node* node) {    //helps
 }
 */
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+/*
 struct Node* CheckFriends(struct Node* treeNode, struct TreeNode* node) {    //checks treeNodes list to search for node, if match address of
 	if (treeNode == NULL || node == NULL)
 		return 0;
@@ -526,5 +526,3 @@ struct Node* CheckFriends(struct Node* treeNode, struct TreeNode* node) {    //c
 	}
 	}
 }
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
